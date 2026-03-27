@@ -3,8 +3,8 @@
 #include <iostream>
 
 int main()
+using namespace std;
 {
-    std::cout<<"Ana Lauraaaa";
-
+    cout<<"Ana Lauraaa"<< endl;
     return 0;
 }
