@@ -3,8 +3,8 @@
 #include <iostream>
 
 int main()
+using namespace std;
 {
-    std::cout<<"Bem-vindo ao C++!";
-
+    cout<<"Bem-vindo ao C++!"<< endl;
     return 0;
 }
