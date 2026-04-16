@@ -1,9 +1,9 @@
 
 /*exercicio 01*/
 #include <iostream>
+using namespace std;
 
 int main()
-using namespace std;
 {
     cout<<"Bem-vindo ao C++!"<< endl;
     return 0;
